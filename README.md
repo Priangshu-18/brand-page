@@ -4,6 +4,7 @@ Welcome to the brand page project! This responsive React website showcases our l
 
 ## Table of Contents
 - [About](#about)
+- [Note](#note)
 - [Features](#features)
 - [Preview](#preview)
 - [How to Use](#how-to-use)
@@ -14,6 +15,15 @@ Welcome to the brand page project! This responsive React website showcases our l
 ## About
 
 This is a dynamic React-based website for Stride Shoes, designed to highlight our brand and showcase our latest shoe collections. The site is built using React for the frontend, with styled-components for styling, creating an interactive and visually appealing user experience.
+
+## Note
+
+- It is only a basic website having only home page and not navigation or any other pages because it was my first reactjs project.
+- Keep all the images inside the public folder in the images section.
+- Create a src folder and inside it paste all the .jsx files excluding the hero.jsx an navigation.jsx file.
+- Put the hero.jsx and navigation.jsx file inside the components folder inside the src folder.
+- Now run `npm i` and install all the dependencies and the in the terminal head over to the project folder and hit npm run dev to run the application.
+- If you face any issues regarding the opening or running the application, feel free to contant me.
 
 ## Features
 
@@ -30,10 +40,9 @@ This is a dynamic React-based website for Stride Shoes, designed to highlight ou
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
-3. Keep all the images inside the public folder in the images section.
-4. Run `npm install` to install the necessary dependencies.
-5. Run `npm start` to start the development server.
-6. Open your browser and visit `http://localhost:5173` to view the website.
+3. Run `npm install` to install the necessary dependencies.
+4. Run `npm start` to start the development server.
+5. Open your browser and visit `http://localhost:5173` to view the website.
 
 ## Customization
 
@@ -51,9 +60,6 @@ The website is designed to be responsive, adapting to different screen sizes:
 - Tablet: Adjusted layout for medium-sized screens
 - Mobile: Stacked layout for easy viewing on smaller screens
 
-## Nte
-
-It is only a website having only home page and not navigation or any other pages because it was my first reactjs project.
 
 ## Connect With Us
 
