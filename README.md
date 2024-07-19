@@ -65,8 +65,8 @@ The website is designed to be responsive, adapting to different screen sizes:
 
 For any questions or suggestions, feel free to reach out:
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/priangshu-mukherjee-609142239/
+- Email: priangshu18@gmail.com
 
 Enjoy exploring and customizing the Stride Shoes brand page! Step into style! 👟✨
 
