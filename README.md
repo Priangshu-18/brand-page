@@ -27,7 +27,7 @@ This is a dynamic React-based website for Stride Shoes, designed to highlight ou
 ## Preview
 
 [Home Page]
-(![Screenshot (130)](https://github.com/user-attachments/assets/a55cead7-5c8f-45a5-bece-d70a45a7e5f7))
+![Screenshot (130)](https://github.com/user-attachments/assets/a55cead7-5c8f-45a5-bece-d70a45a7e5f7)
 
 ## How to Use
 
