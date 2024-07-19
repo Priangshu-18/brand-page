@@ -1,6 +1,6 @@
-# Stride Shoes Brand Page
+# Brand Page
 
-Welcome to the Stride Shoes brand page project! This responsive React website showcases our latest collections, features, and more.
+Welcome to the brand page project! This responsive React website showcases our latest collections, features, and more.
 
 ## Table of Contents
 - [About](#about)
@@ -18,10 +18,7 @@ This is a dynamic React-based website for Stride Shoes, designed to highlight ou
 ## Features
 
 - Responsive navigation bar with brand logo
-- Hero section featuring the latest collection
-- Interactive product showcase with filtering options
-- Customer reviews carousel
-- Newsletter subscription form
+- Hero section
 - Footer with quick links and social media icons
 
 ## Preview
@@ -33,9 +30,10 @@ This is a dynamic React-based website for Stride Shoes, designed to highlight ou
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
-3. Run `npm install` to install the necessary dependencies.
-4. Run `npm start` to start the development server.
-5. Open your browser and visit `http://localhost:3000` to view the website.
+3. Keep all the images inside the public folder in the images section.
+4. Run `npm install` to install the necessary dependencies.
+5. Run `npm start` to start the development server.
+6. Open your browser and visit `http://localhost:5173` to view the website.
 
 ## Customization
 
@@ -52,6 +50,10 @@ The website is designed to be responsive, adapting to different screen sizes:
 - Desktop: Full layout with side-by-side sections
 - Tablet: Adjusted layout for medium-sized screens
 - Mobile: Stacked layout for easy viewing on smaller screens
+
+## Nte
+
+It is only a website having only home page and not navigation or any other pages because it was my first reactjs project.
 
 ## Connect With Us
 
