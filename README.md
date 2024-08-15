@@ -33,7 +33,6 @@ This is a dynamic React-based website for Stride Shoes, designed to highlight ou
 
 ## Preview
 
-[Home Page]
 ![Screenshot (130)](https://github.com/user-attachments/assets/a55cead7-5c8f-45a5-bece-d70a45a7e5f7)
 
 ## How to Use
@@ -69,5 +68,3 @@ For any questions or suggestions, feel free to reach out:
 - Email: priangshu18@gmail.com
 
 Enjoy exploring and customizing the Stride Shoes brand page! Step into style! 👟✨
-
-Would you like me to explain or break down any part of this README?
